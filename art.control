@@ -1,0 +1,5 @@
+# art extension
+comment = 'art index'
+default_version = '0.1'
+module_pathname = '$libdir/art'
+relocatable = true
